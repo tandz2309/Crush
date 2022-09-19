@@ -1,10 +1,9 @@
 const CONFIG = {
     titleWeb: "Gửi béeeeee =))",
     introTitle: 'bé yêu dấu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Có bao giờ em nhớ anh không
+    Đã bao giờ em thương anh dù chỉ một lần
+    Em ơi anh muốnnnn =)))`,
     btnIntro: '^^HiHi^^',
     title: 'em có thích anh hông?? 🥰',
     desc: 'Thoát web là chấp nhận yêu anh luôn đó nhé!!!',
